@@ -4,7 +4,7 @@ Hey, Welcome! I'm Vagner Santos
 <br>
 Front-end developer. </h1>
 
-<img src="./assets/sonic.gif" align="right" height="300" />
+<img src="./img/sonic.gif" align="right" height="300" />
 <p align="left">
 🚀I'm currently made application development using React.
 
