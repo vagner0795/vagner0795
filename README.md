@@ -1,16 +1,14 @@
-[![banner](./img/my-banner.jpg)](https://github.com/vagner0795)
-
 <h1 align="center">
-hey! My name is Vagner, I'm a Front-end developer. </h1>
+Hey, Welcome! I'm Vagner Santos
+<br>
+<br>
+Front-end developer. </h1>
 
+<img src="./assets/sonic.gif" align="right" height="300" />
+<p align="left">
+🚀I'm currently made application development using React.
 
-<h3 align="left">
-  🚀I'm currently studying application development using React.
-
-  <br>
-  <br>
-
-  I have experience with HTML, CSS, JAVASCRIPT and NODE.JS</h3>
+🖥️I have experience with HTML, CSS, JAVASCRIPT, GIT, GITHUB, REACT and NODE.JS.</p>
 
 <h2>I learned:</h2>
 
@@ -28,13 +26,19 @@ hey! My name is Vagner, I'm a Front-end developer. </h1>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
 <h2>I'm going to study: </h2>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
@@ -48,33 +52,39 @@ hey! My name is Vagner, I'm a Front-end developer. </h1>
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=vagner0795&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=vagner0795&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
     />
   </a>
 
 <br>
 <br>
-
 
 <a href="https://github.com/vagner0795">
     <img
       align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner0795&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      height="165em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner0795&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula"
     />
   </a>
+  <br>
+<br>
+
+<a href="https://github.com/vagner0795">
+    <img
+      align="center"
+      height="145em"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=vagner0795&theme=dracula&hide_border=true"
+    />
+  </a>
+
+<br>
+<br>
+
 </p>
 
 <h3 align="center"> How to reach me:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/vagner.devs/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
-    />
-  </a>
- 
   
   <a href="https://www.linkedin.com/in/vagner-santos-828731b7/">
     <img
