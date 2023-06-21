@@ -35,7 +35,7 @@ Sou Desenvolvedor Frontend React </h1>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/vagner0795/vagner0795/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
   <a href="https://github.com/vagner0795">
@@ -44,7 +44,7 @@ Sou Desenvolvedor Frontend React </h1>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vagner0795&theme=dracula&hide_border=true"/>
 </div>
 
-
+![Snake animation](https://github.com/vagner0795/vagner0795/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
@@ -55,7 +55,7 @@ Sou Desenvolvedor Frontend React </h1>
   <a href="https://www.linkedin.com/in/vagner0795/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+         src="https://img.shields.io/badge/LinkedIn-0097FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
 </p>
 
