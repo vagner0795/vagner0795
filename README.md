@@ -3,46 +3,26 @@ Olá! me chamo Vagner
 <br>
 <br>
 Sou Desenvolvedor Frontend React </h1>
+<div style='display: flex; align-items: center; justify-content: center; flex-direction: column-reverse;'>
 
-<img src="./img/sonic.gif" align="right" height="200" />
+<img src="./img/sonic.gif" align="right" width="200" />
 
 <p align="left">
-🖥️ Desenvolvedor frontend com  habilidades em HTML, CSS, JavaScript, ReactJS e Node.js. Apaixonado por programação web </p>
-
-<h2>Habilidades:</h2>
-
-<div>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img style="height: 40px; border-radius: 5px; margin-left:15px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+🖥️ Desenvolvedor Frontend com  habilidades em ReactJS, JavaScript, Html5, Css3, Tailwind CSS, Vite, Next.js, Styled-components, Figma. </p>
 </div>
-<br>
+
+<div style="display:flex; flex-direction: column; justify-content: center; align-items: center;">
+<h2>Habilidades:</h2>
+<img style="height: 80px;" src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,vite,next,styledcomponents,figma"/>
+</div>
+
 <br>
 
-
-<div>
+<div style="display:flex; justify-content: center; align-items: center;">
   <a href="https://github.com/vagner0795">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagner0795&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner0795&layout=compact&langs_count=6&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vagner0795&theme=dracula&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vagner0795&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner0795&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=vagner0795&theme=dracula&hide_border=true"/>
 </div>
 
 ![Snake animation](https://github.com/vagner0795/vagner0795/blob/output/github-contribution-grid-snake.svg)
@@ -54,9 +34,9 @@ Sou Desenvolvedor Frontend React </h1>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/vagner0795/">
-    <img
+    <img 
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-0097FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+         src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
